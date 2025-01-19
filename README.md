@@ -90,23 +90,6 @@ build your WordPress site in a safe, isolated environment.
 ![wordpress dashboard](https://github.com/user-attachments/assets/e2a99bad-e078-4ba7-a250-a68281276b30)
 
 
-| Tool | Description | Explanation |
-|---|---|---|
-| **Posts** | Manage your blog content. | This is where you create, edit, and publish blog posts. You can also categorize and tag posts for better organization. |
-| **Pages** | Create static pages for your website. | Use this for about us, contact, and other pages with static content that doesn't change frequently. |
-| **Media** | Upload and manage images, videos, and other media files. | This library stores all your media files, allowing you to easily insert them into your posts and pages. |
-| **Pages** | Create static pages for your website. | Use this for about us, contact, and other pages with static content that doesn't change frequently. |
-| **Comments** | View and manage comments left by visitors on your site. | Approve or disapprove comments, reply to visitors, and moderate discussions. |
-| **Appearance** | Customize the look and feel of your website. | Choose a theme, adjust colors and fonts, and add widgets to your sidebars. |
-| **Plugins** | Extend the functionality of your website. | Install and manage plugins for features like SEO, contact forms, e-commerce, and more. |
-| **Users** | Manage user accounts on your website. | Add new users, assign roles (e.g., administrator, editor), and manage user profiles. |
-| **Tools** | Access various tools for importing/exporting content, managing databases, and more. | Includes features like importing content from other platforms and checking your site's health. |
-| **Settings** | Configure general settings for your website. | Adjust settings for reading, writing, discussion, media, and more. |
-
-**Note:** The exact tools and their arrangement may vary slightly depending on the specific WordPress version and installed plugins.
-
-
-**WordPress Dashboard Sub-Tools**
 
 | Tool | Description | Explanation |
 |---|---|---|
@@ -120,4 +103,8 @@ build your WordPress site in a safe, isolated environment.
 | **Tools** | <ul><li>**Import:** Import content from other platforms (e.g., Blogger, WordPress).</li><li>**Export:** Export your entire site's content (posts, pages, comments, etc.).</li><li>**Site Health:** Check for issues affecting your website's performance and security.</li><li>**Import/Export:** (Older versions) Combine import and export functionalities.</li></ul> | Provides tools for site maintenance, data transfer, and troubleshooting. |
 | **Settings** | <ul><li>**General:** Basic site information (site title, tagline, etc.).</li><li>**Writing:** Post settings (default category, excerpt length, etc.).</li><li>**Reading:** Blog and homepage display settings.</li><li>**Discussion:** Comment settings (comment moderation, notification, etc.).</li><li>**Media:** Media upload settings (image sizes, file types, etc.).</li><li>**Permalinks:** Customize the structure of your website's URLs.</li><li>**Privacy:** Configure privacy settings for your website.</li></ul> | Configure core settings for various aspects of your WordPress website. |
 
-This table provides a detailed breakdown of the sub-tools within each main section of the WordPress dashboard. By understanding these tools, you can effectively manage and customize your website to achieve your online goals.
+
+**Note:** The exact tools and their arrangement may vary slightly depending on the specific WordPress version and installed plugins.
+
+
+
