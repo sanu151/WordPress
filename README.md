@@ -21,6 +21,7 @@ Wordpress Tutorials and Projects
 
 **In essence, WordPress simplifies website creation and management by providing a user-friendly framework and a vast ecosystem of tools and resources.** 
 
+### Download all images from a webpage : [https://appscyborg.com/image-cyborg](https://appscyborg.com/image-cyborg)
 
 
 ## Setting up a local WordPress environment with XAMPP 
