@@ -28,8 +28,7 @@ Wordpress Tutorials and Projects
 ### Download all images from a webpage : [https://appscyborg.com/image-cyborg](https://appscyborg.com/image-cyborg)
 
 
-#### What WordPress Theme Is That is a free online tool allows you to easily detect what WordPress theme a site uses (including parent and child themes). Additionally, it will also detect what WordPress Plugins are being used. 
-#### Click the link: *[WordPress Theme Search](https://whatwpthemeisthat.com/)*
+#### What WordPress Theme Is That is a free online tool allows you to easily detect what WordPress theme a site uses (including parent and child themes). Additionally, it will also detect what WordPress Plugins are being used. Click the link: *[WordPress Theme Search](https://whatwpthemeisthat.com/)*
 
 ## Setting up a local WordPress environment with XAMPP 
 
