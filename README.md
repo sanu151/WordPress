@@ -395,3 +395,16 @@ When choosing a theme, consider the following:
 * **Responsiveness:** Ensure the theme is fully responsive and looks great on all devices.
 * **Support and documentation:** Choose a theme with good documentation and support from the theme developer.
 
+## Wordpress Plugins
+
+
+| **Plugin Name**           | **Description**                                                                                   |
+|---------------------------|---------------------------------------------------------------------------------------------------|
+| **Elementor**             | A drag-and-drop page builder plugin that allows users to create custom WordPress websites without coding. |
+| **Elementor Pro**         | The premium version of Elementor, offering advanced features like theme building, pop-up builder, and WooCommerce integration. |
+| **All-in-One WP Migration** | A plugin that simplifies website migration by exporting the entire site (database, themes, plugins, and files) into a single file. |
+| **Easy Updates Manager**  | A plugin that manages automatic updates for WordPress core, themes, and plugins to keep your site secure and up-to-date. |
+| **Call Now Button**       | Adds a customizable "Call Now" button to your website, making it easy for visitors to contact you via phone. |
+| **JetElements For Elementor** | A plugin that adds new widgets and elements to Elementor, enhancing its functionality for creating dynamic content. |
+| **Simple Social Buttons** | A plugin that adds social media sharing buttons to your website, helping visitors share your content easily. |
+.
