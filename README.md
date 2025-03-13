@@ -410,3 +410,5 @@ When choosing a theme, consider the following:
 | **JetElements For Elementor** | A plugin that adds new widgets and elements to Elementor, enhancing its functionality for creating dynamic content. |
 | **Simple Social Buttons** | A plugin that adds social media sharing buttons to your website, helping visitors share your content easily. |
 | **Simple Custom Post Order** | Order Items (Posts, Pages, and Custom Post Types) using a Drag and Drop Sortable JavaScript. |
+| **Translate WordPress with GTranslate** | Google Translate automatic translation service to translate wordpress site with Google power and make it multilingual With 103 available languages. |
+
