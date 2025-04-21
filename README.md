@@ -411,4 +411,8 @@ When choosing a theme, consider the following:
 | **Simple Social Buttons** | A plugin that adds social media sharing buttons to your website, helping visitors share your content easily. |
 | **Simple Custom Post Order** | Order Items (Posts, Pages, and Custom Post Types) using a Drag and Drop Sortable JavaScript. |
 | **Translate WordPress with GTranslate** | Google Translate automatic translation service to translate wordpress site with Google power and make it multilingual With 103 available languages. |
+| **Max Mega Menu** | Max Mega Menu is a must-have WordPress plugin for websites with a complex hierarchical structure or many child pages. |
+|**Yoast SEO** | Yoast SEO is a popular and powerful plugin designed for WordPress websites to improve their search engine optimization (SEO). |
+|**WooCommerce** | WooCommerce is the open-source ecommerce platform for WordPress. |
+|**Social Chat – Click To Chat App Button** | WhatsApp Chat🔥 allows you to enhance customer engagement! Integrate "WhatsApp" or "WhatsApp Business" with a single click.|
 
