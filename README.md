@@ -416,3 +416,9 @@ When choosing a theme, consider the following:
 |**WooCommerce** | WooCommerce is the open-source ecommerce platform for WordPress. |
 |**Social Chat – Click To Chat App Button** | WhatsApp Chat🔥 allows you to enhance customer engagement! Integrate "WhatsApp" or "WhatsApp Business" with a single click.|
 
+
+
+## How to Find out What Platform the Website is made | Find CMS Platform or Technology of Website.
+
+* What wp theme is that link: **[https://whatwpthemeisthat.com/](https://whatwpthemeisthat.com/)** : The website "What WordPress Theme Is That?" is a free online tool designed to help users identify the WordPress theme and plugins used on any WordPress-powered website.
+* Built with website link: **[https://builtwith.com/](https://builtwith.com/)** : "BuiltWith" is a popular website intelligence tool that provides detailed information about the technologies used on websites.
