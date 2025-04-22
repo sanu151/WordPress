@@ -471,6 +471,8 @@ As the platform owner, you manage the overall marketplace, set commission rates,
 
 This is the method officially provided by Facebook and is generally the most reliable.
 
+**Documentation :** [https://www.facebook.com/business/help/1524587524402327](https://www.facebook.com/business/help/1524587524402327)
+
 **Steps:**
 
 1.  **Get Your Facebook Page ID:**
