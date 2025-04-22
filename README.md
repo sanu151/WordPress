@@ -477,8 +477,8 @@ This is the method officially provided by Facebook and is generally the most rel
 1. Go to your Page's Settings and click Messaging.
 2. Under Add Messenger to your website, click Get started.
 3. From here, you can either:
-* Install manually by clicking Setup. From here you can select your language, add your website domain(s) and copy the code to paste on your website.
-* Follow the Add Chat Plugin to your website steps below based on your chosen website builder and paste the code on the page(s) you want the Chat Plugin to appear.
+| Install manually by clicking Setup. From here you can select your language, add your website domain(s) and copy the code to paste on your website.
+| Follow the Add Chat Plugin to your website steps below based on your chosen website builder and paste the code on the page(s) you want the Chat Plugin to appear.
 4. Under Start a conversation, you can create a welcome message and add automated responses for frequently asked questions.
 5. Under Customize your Chat Plugin options, you can customize the color, alignment and expansion settings.
 ***Add the Chat Plugin to your website***
