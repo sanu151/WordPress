@@ -464,3 +464,46 @@ As the platform owner, you manage the overall marketplace, set commission rates,
 
 **In short, using the Dokan plugin with WordPress and WooCommerce is a powerful and efficient way to build your own multi-vendor e-commerce website, providing a platform for multiple sellers to connect with customers.**
 
+
+## Facebook Messenger Chat to WordPress website
+
+### Using the Official Facebook Page Plugin (Recommended)
+
+This is the method officially provided by Facebook and is generally the most reliable.
+
+**Steps:**
+
+1.  **Get Your Facebook Page ID:**
+    * Go to your Facebook Page.
+    * Click on "About" in the left-hand menu.
+    * Scroll down to the "Page ID" section. Copy this number.
+
+2.  **Install and Activate the Facebook for WordPress Plugin:**
+    * In your WordPress admin dashboard, go to **Plugins > Add New**.
+    * Search for "Facebook for WordPress" (by Facebook).
+    * Click **Install Now** and then **Activate**.
+
+3.  **Connect Your Facebook Page:**
+    * Once activated, you'll see a "Facebook" menu in your WordPress admin sidebar. Click on **Marketing on Facebook**.
+    * Click the **Connect your Facebook account** button and follow the on-screen instructions to link your personal Facebook profile to the plugin.
+    * Once connected, you'll see a section to connect your Facebook Page. Select your Page from the dropdown menu and click **Connect Page**.
+
+4.  **Enable the Messenger Chat Plugin:**
+    * After connecting your Page, navigate to the **Messenger** tab within the "Marketing on Facebook" settings.
+    * Toggle the **Show Messenger on your site** option to **On**.
+    * You can customize the greeting message that visitors will see.
+    * Click **Save Changes**.
+
+5.  **Verify on Your Website:**
+    * Visit your WordPress website. You should now see the Facebook Messenger chat bubble appearing in the bottom right corner (the default position).
+
+**Customization Options (within the Facebook Page Plugin):**
+
+* **Greeting Message:** Customize the initial message visitors see.
+* **Theme Color:** Change the color of the chat bubble to match your website's branding.
+* **Position:** Adjust the position of the chat bubble (left or right).
+* **Logged-in Greeting:** Set a different greeting for users who are logged into Facebook.
+* **Logged-out Greeting:** Set a greeting for users who are not logged into Facebook.
+
+
+
