@@ -426,7 +426,7 @@ When choosing a theme, consider the following:
 
 
 
-**Multi-Vendor E-commerce Website with Dokan**
+## **Multi-Vendor E-commerce Website with Dokan**
 
 It's an online platform built using WordPress and the Dokan Multi Vendor Marketplace plugin. This setup allows you to transform a regular WordPress website (powered by WooCommerce) into a fully functional marketplace where multiple independent sellers can:
 
