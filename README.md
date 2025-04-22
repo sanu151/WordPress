@@ -467,45 +467,19 @@ As the platform owner, you manage the overall marketplace, set commission rates,
 
 ## Facebook Messenger Chat to WordPress website
 
-### Using the Official Facebook Page Plugin (Recommended)
+### Using the Official Facebook Page (Recommended)
 
 This is the method officially provided by Facebook and is generally the most reliable.
 
 **Documentation :** [https://www.facebook.com/business/help/1524587524402327](https://www.facebook.com/business/help/1524587524402327)
 
-**Steps:**
-
-1.  **Get Your Facebook Page ID:**
-    * Go to your Facebook Page.
-    * Click on "About" in the left-hand menu.
-    * Scroll down to the "Page ID" section. Copy this number.
-
-2.  **Install and Activate the Facebook for WordPress Plugin:**
-    * In your WordPress admin dashboard, go to **Plugins > Add New**.
-    * Search for "Facebook for WordPress" (by Facebook).
-    * Click **Install Now** and then **Activate**.
-
-3.  **Connect Your Facebook Page:**
-    * Once activated, you'll see a "Facebook" menu in your WordPress admin sidebar. Click on **Marketing on Facebook**.
-    * Click the **Connect your Facebook account** button and follow the on-screen instructions to link your personal Facebook profile to the plugin.
-    * Once connected, you'll see a section to connect your Facebook Page. Select your Page from the dropdown menu and click **Connect Page**.
-
-4.  **Enable the Messenger Chat Plugin:**
-    * After connecting your Page, navigate to the **Messenger** tab within the "Marketing on Facebook" settings.
-    * Toggle the **Show Messenger on your site** option to **On**.
-    * You can customize the greeting message that visitors will see.
-    * Click **Save Changes**.
-
-5.  **Verify on Your Website:**
-    * Visit your WordPress website. You should now see the Facebook Messenger chat bubble appearing in the bottom right corner (the default position).
-
-**Customization Options (within the Facebook Page Plugin):**
-
-* **Greeting Message:** Customize the initial message visitors see.
-* **Theme Color:** Change the color of the chat bubble to match your website's branding.
-* **Position:** Adjust the position of the chat bubble (left or right).
-* **Logged-in Greeting:** Set a different greeting for users who are logged into Facebook.
-* **Logged-out Greeting:** Set a greeting for users who are not logged into Facebook.
-
-
-
+**Set up Chat Plugin from your Facebook Page**
+1. Go to your Page's Settings and click Messaging.
+2. Under Add Messenger to your website, click Get started.
+3. From here, you can either:
+* Install manually by clicking Setup. From here you can select your language, add your website domain(s) and copy the code to paste on your website.
+* Follow the Add Chat Plugin to your website steps below based on your chosen website builder and paste the code on the page(s) you want the Chat Plugin to appear.
+4. Under Start a conversation, you can create a welcome message and add automated responses for frequently asked questions.
+5. Under Customize your Chat Plugin options, you can customize the color, alignment and expansion settings.
+***Add the Chat Plugin to your website***
+* After you complete the Chat Plugin setup from your Page, you can paste the code directly into your website from your preferred website builder:
