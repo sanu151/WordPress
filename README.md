@@ -26,6 +26,7 @@ Wordpress Tutorials and Projects
 **In essence, WordPress simplifies website creation and management by providing a user-friendly framework and a vast ecosystem of tools and resources.** 
 
 ### Download all images from a webpage : [https://appscyborg.com/image-cyborg](https://appscyborg.com/image-cyborg)
+### Daily 5 Themes/Plugins download : [https://www.hustlewp.com/](https://www.hustlewp.com/)
 
 
 #### What WordPress Theme Is That is a free online tool allows you to easily detect what WordPress theme a site uses (including parent and child themes). Additionally, it will also detect what WordPress Plugins are being used. Click the link: *[WordPress Theme Search](https://whatwpthemeisthat.com/)*
